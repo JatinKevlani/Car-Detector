@@ -17,7 +17,7 @@ Or you can install the requirements.txt and run the following command to automat
           
 Step 2 :- Install the best.pt and main.py files
 
-Step 3 :- Install any image any in img variable set your image path in main.py file
+Step 3 :- Install any image and in img variable set your image path in main.py file
 
 Step 4 :- Run the main.py file
 
