@@ -2,7 +2,7 @@ import cv2 as cv
 import torch
 import numpy as np
 
-path = "D:\\My-Projects\\Car_Detector\\yolov5\\runs\\train\\exp7\\weights\\best.pt"
+path = "best.pt"
 model = torch.hub.load('ultralytics/yolov5', 'custom', path, force_reload=True)
 
 def image():
