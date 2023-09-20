@@ -2,11 +2,11 @@ import cv2 as cv
 import torch
 import numpy as np
 
-path = "best.pt" # Set your path of best.pt file here
+path = "best.pt" # Set path of your best.pt file here
 model = torch.hub.load('ultralytics/yolov5', 'custom', path, force_reload=True)
 
 def image():
-    img = cv.imread("image.jpg") # Set your path of image file here
+    img = cv.imread("image.jpg") # Set path of your image file here
     img = cv.resize(img, (676, 380))
     results = model(img)
     img = np.squeeze(results.render())
