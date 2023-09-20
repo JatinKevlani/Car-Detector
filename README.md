@@ -1,5 +1,5 @@
 # Car-Detector
-Step 1 :-  run the following command to automatically install all the required libraries :
+Step 1 :-  Install requirements.txt file and run the following command to automatically install all the required libraries :
 
           pip install -r requirements.txt
            
