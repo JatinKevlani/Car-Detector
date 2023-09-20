@@ -1,22 +1,8 @@
 # Car-Detector
-Step 1 :- Install the following libraries :
+Step 1 :-  run the following command to automatically install all the required libraries :
 
-          1. opencv-python
-          
-          2. torch
-          
-          3. numpy
-
-          4. pandas
-          
-Or you can install the requirements.txt and run the following command to automatically install all the required libraries :
-
-          Install requirements.txt
-          
-          run the command : 
-          
           pip install -r requirements.txt
-          
+           
 Step 2 :- 
 
           Install the best.pt and main.py files
