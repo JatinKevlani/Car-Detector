@@ -6,6 +6,8 @@ Step 1 :- Install the following libraries :
           2. torch
           
           3. numpy
+
+          4. pandas
           
 Or you can install the requirements.txt and run the following command to automatically install all the required libraries :
 
