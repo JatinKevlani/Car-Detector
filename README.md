@@ -16,3 +16,8 @@ IF YOU GET ERROR :-
           Check the path variable in main.py file and give the path of the best.pt file in path variable
 
           Check the internet connection (It won't work offline because it loads the model online from github)
+Contact developer<br>
+Name :- Jatin Kevlani<br>
+Email :- jatinkevlani01@gmail.com<br>
+LinkedIn :- jatinkevlani<br>
+IG :- jatin.kevlani
