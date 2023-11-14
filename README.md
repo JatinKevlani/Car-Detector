@@ -3,19 +3,13 @@ Step 1 :-  Install requirements.txt file and run the following command to automa
 
           pip install -r requirements.txt
            
-Step 2 :- 
+Step 2 :- Install the best.pt and main.py files
 
-          Install the best.pt and main.py files
-
-Step 3 :- 
-
-          Set path of best.pt file in path varaiable in main.py file
+Step 3 :- Set path of best.pt file in path varaiable in main.py file
           
-          Install any image and in img variable set your image path in main.py file
+Step 4 :- Install any image and in img variable set your image path in main.py file
 
-Step 4 :-
-
-          Run the main.py file
+Step 5 :- Run the main.py file
 
 IF YOU GET ERROR :-
 
